@@ -24,3 +24,10 @@ CIV1287 Vibe Code Assignment.pdf
 
 # IDE / tooling state
 .claude/
+
+# submission deliverables (submitted via Quercus, not GitHub)
+CIV1287_VibeCoding_Submission.docx
+CIV1287_VibeCoding_Submission.pdf
+
+# LibreOffice lock files
+.~lock.*#
