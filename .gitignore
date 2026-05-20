@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data and large artifacts
+data/
+outputs/**/checkpoints/
+*.zip
+
+# secrets
+.kaggle/
+kaggle.json
+
+# build helpers (not part of the submission)
+scripts/
+
+# intermediate / duplicate artifacts
+outputs/metrics_tables.docx
+reports/*_modified.md
+
+# instructor-supplied assignment description (not for redistribution)
+CIV1287 Vibe Code Assignment.pdf
+
+# IDE / tooling state
+.claude/
